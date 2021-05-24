@@ -50,6 +50,7 @@ The dashboards and story in Tableau provide:
 
 Along with the direct link to the Tableau file, resources for this project are in this repository and include:
 
-* The Jupyter Notebooks used to manipulate the datasets. There are multiple notebooks due to determining a manageable data set.
+* The Jupyter Notebooks used to manipulate the datasets.
 * An index.html page that contains the embedded Tableau code.
-* The final .twbx file.
+* The final .twbx file was too big to put in this repository.
+* The initial and final CSVs were too big to put in this repository.
