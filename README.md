@@ -2,7 +2,7 @@
 
 ## Background
 
-This assignment focuses on using Tableau for data exploration and visulatization. The final dashboard is saved in Tableau Public account here: https://public.tableau.com/shared/HD7ZQMJ9B?:display_count=y&:origin=viz_share_link
+This assignment focuses on using Tableau for data exploration and visulatization. The final dashboard is saved in Tableau Public account here: https://public.tableau.com/views/KH_Citibike_final/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ![Citi-Bikes](images/header.png)
 
