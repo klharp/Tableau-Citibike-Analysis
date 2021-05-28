@@ -35,13 +35,17 @@ The dashboards and story in Tableau provide:
 
 * Summary which includes the observations:
 
-  1. The number of stations increased 25% in July of 2020 compared to July of 2019.
+  1. The number of stations increased nearly 26% in July of 2020 compared to July of 2019.
 
   2. The reduction in overall use in July of 2020 compared to July of 2019 was 7.64%. Beginning assumption was that this change would be greater.
 
   3. In July of 2020 the popular stations shifted from the lower Manhatten area to those areas bordering the water and Central Park. This reflects that bike usage was more in  open areas, avoiding more densely populated areas. This pattern is both in the start and the stop stations.
 
-  4. Both female and male customers increased during the pandemic. Possibly reflecting the issue of people (non-subscribers) wanting to get outside and active. Though, female riders remain relatively low 
+  4. Both female and male customers increased during the pandemic. Possibly reflecting the issue of people (non-subscribers) wanting to get outside and active. Though, female riders remain relatively low compared to male.
+
+  5. Male subscribers was the only decrease (by almost 23%) comparing July 2019 to July 2020. Possibly reflecting the reduction CitiBike usage to go to work and other activities that were reduced or eliminated due to the pandemic.
+
+  6. Trip duration increase slightly comparing July 2019 and July 2020, while the trip distances had little change.
 
 ---
 
