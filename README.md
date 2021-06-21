@@ -1,6 +1,6 @@
 # Tableau Homework - CitiBike Analysis
 
-## Background
+## Project Overview
 
 This assignment focuses on using Tableau for data exploration and visulatization. The final dashboard is saved in Tableau Public account here: https://public.tableau.com/views/KH_Citibike_final/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
@@ -14,6 +14,16 @@ For a manageable dataset, the following conditions were selected to compare 2019
   * Removed gender of "unknown" to have male and female only.
   * Split the date/time into separate date and time columns.
   * Calculated age from birth year.
+
+  Languages and libraries used:
+* Python
+* Pandas
+* OS
+* Datetime
+* HTML
+* CSS
+* Bootstrap
+* Tableau
 
 ---
 
