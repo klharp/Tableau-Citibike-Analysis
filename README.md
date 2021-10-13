@@ -1,4 +1,4 @@
-# Tableau Homework - CitiBike Analysis
+# Tableau - CitiBike Analysis
 
 ## Project Overview
 
@@ -59,7 +59,6 @@ The dashboards and story in Tableau provide:
 
 ---
 
-## Submission
 
 
 Along with the direct link to the Tableau file, resources for this project are in this repository and include:
