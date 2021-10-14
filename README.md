@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This assignment focuses on using Tableau for data exploration and visulatization. The final dashboard is saved in Tableau Public account here: https://public.tableau.com/views/KH_Citibike_final/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+Used Tableau for data exploration and visualizations of CitiBike data. The final dashboard is saved in Tableau Public account here: https://public.tableau.com/views/KH_Citibike_final/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ![Citi-Bikes](images/header.png)
 
@@ -29,7 +29,7 @@ For a manageable dataset, the following conditions were selected to compare 2019
 
 ## Tableau Story
 
-The dashboards and story in Tableau provide:
+The dashboards and story in Tableau provides:
 
 * An introduction to the project
 
@@ -58,7 +58,6 @@ The dashboards and story in Tableau provide:
   6. Trip duration increase slightly comparing July 2019 and July 2020, while the trip distances had little change.
 
 ---
-
 
 
 Along with the direct link to the Tableau file, resources for this project are in this repository and include:
